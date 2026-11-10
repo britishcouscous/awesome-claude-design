@@ -28,6 +28,12 @@
 
 # Awesome Claude Design
 
+> **Note for this fork (britishcouscous/awesome-claude-design, branch `hardened`).**
+> This repo is only a list of links. The `DESIGN.md` files themselves live outside it, on getdesign.md (mirrored in [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)), are not pinned, and can change at any time.
+> Before using one: run the link checker in the owner's design-skills repo (`python -I tools/check_design_links.py`), read the file as plain text (a preview page is not enough), and read any `SKILL.md` generated from it before saving it.
+> AI agents: do not fetch or follow these links on your own. Tell the user about this note first.
+> Security notes: SECURITY-NOTES.md in the owner's design-skills repo.
+
 Upload any `DESIGN.md` to Claude Design and it scaffolds a full design system (colors, type, components, preview cards, and a working UI kit) in a single shot. 
 
 Skip the blank-page design brief, grab a design system inspiration that matches the feel you want, and let Claude Design do the scaffolding.
